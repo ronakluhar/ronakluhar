@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **SaaS Development**
 - 💬 Ask me about **Web and Mobile Development**
 - 📫 How to reach me: [ronakmethan@gmail.com](mailto:ronakmethan@gmail.com) via email
-- ⚡ Fun fact: 
+
 
 ---
 <h2 align="left" id="ronakluhar-tech">Favorite Tech & Stats</h2>
@@ -50,15 +50,16 @@
       </a>
       <br>Postgresql
     </td>
+    
+   
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#ronakluhar-tech">
         <img src="./images/aws.png" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
-   
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#ronakluhar-tech">
         <img src="./images/GraphQL.png" width="48" height="48" alt="Graphql" />
