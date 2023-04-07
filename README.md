@@ -65,6 +65,18 @@
       </a>
       <br>Graphql
     </td>
+    <td align="center" width="96">
+      <a href="#ronakluhar-tech">
+        <img src="./images/saas-development.png" width="48" height="48" alt="SaaS" />
+      </a>
+      <br>SaaS
+    </td>
+    <td align="center" width="96">
+      <a href="#ronakluhar-tech">
+        <img src="./images/api.png" width="48" height="48" alt="API" />
+      </a>
+      <br>API
+    </td>
    <td align="center" width="96">
       <a href="#ronakluhar-tech">
         <img src="./images/docker.png" width="48" height="48" alt="Docker" />
