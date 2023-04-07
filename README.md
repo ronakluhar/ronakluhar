@@ -67,7 +67,7 @@
     </td>
     <td align="center" width="96">
       <a href="#ronakluhar-tech">
-        <img src="./images/saas-development.png" width="48" height="48" alt="SaaS" />
+        <img src="./images/saas.png" width="48" height="48" alt="SaaS" />
       </a>
       <br>SaaS
     </td>
