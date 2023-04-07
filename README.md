@@ -22,15 +22,9 @@
     </td>
     <td align="center" width="96">
       <a href="#ronakluhar-tech">
-        <img src="./images/node-js.png" width="48" height="48" alt="Node.js" />
+        <img src="./images/node.svg" width="48" height="48" alt="Node.js" />
       </a>
       <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="#ronakluhar-tech">
-        <img src="./images/express.png" width="48" height="48" alt="Express" />
-      </a>
-      <br>Express
     </td>
     <td align="center" width="96">
       <a href="#ronakluhar-tech">
@@ -46,7 +40,7 @@
     </td>
     <td align="center" width="96">
       <a href="#ronakluhar-tech">
-        <img src="./images/mysql.png" width="48" height="48" alt="MySql" />
+        <img src="./images/mysql.svg" width="48" height="48" alt="MySql" />
       </a>
       <br>MySql
     </td>
@@ -55,12 +49,6 @@
         <img src="./images/postgresql.png" width="48" height="48" alt="Postgresql" />
       </a>
       <br>Postgresql
-    </td>
-    <td align="center" width="96">
-      <a href="#ronakluhar-tech">
-        <img src="./images/mongodb.png" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
     </td>
     <td align="center" width="96">
       <a href="#ronakluhar-tech">
@@ -73,7 +61,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#ronakluhar-tech">
-        <img src="./images/graphql.png" width="48" height="48" alt="Graphql" />
+        <img src="./images/GraphQL.png" width="48" height="48" alt="Graphql" />
       </a>
       <br>Graphql
     </td>
@@ -85,43 +73,13 @@
     </td>
     <td align="center" width="96">
       <a href="#ronakluhar-tech">
-        <img src="./images/rust.png" width="48" height="48" alt="Rust" />
-      </a>
-      <br>Rust
-    </td>
-    <td align="center" width="96">
-      <a href="#ronakluhar-tech">
         <img src="./images/github.png" width="48" height="48" alt="GitHub" />
       </a>
       <br>GitHub
     </td>
     <td align="center" width="96">
       <a href="#ronakluhar-tech">
-        <img src="./images/apple.png" width="48" height="48" alt="Mac" />
-      </a>
-      <br>Mac
-    </td>
-    <td align="center" width="96">
-      <a href="#ronakluhar-tech">
-        <img src="./images/linux.png" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#ronakluhar-tech">
-        <img src="./images/nginx.png" width="48" height="48" alt="Nginx" />
-      </a>
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <a href="#ronakluhar-tech">
-        <img src="./images/discord.png" width="48" height="48" alt="Discord" />
-      </a>
-      <br>Discord
-    </td>
-    <td align="center" width="96">
-      <a href="#ronakluhar-tech">
-        <img src="./images/slack.png" width="48" height="48" alt="Slack" />
+        <img src="./images/slack.jpg" width="48" height="48" alt="Slack" />
       </a>
       <br>Slack
     </td>
