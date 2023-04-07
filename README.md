@@ -89,12 +89,6 @@
       </a>
       <br>GitHub
     </td>
-    <td align="center" width="96">
-      <a href="#ronakluhar-tech">
-        <img src="./images/slack.jpg" width="48" height="48" alt="Slack" />
-      </a>
-      <br>Slack
-    </td>
   </tr>
 </table>
 
