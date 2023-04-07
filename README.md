@@ -14,37 +14,37 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="120">
       <a href="#ronakluhar-tech">
         <img src="./images/laravel.png" width="48" height="48" alt="Laravel" />
       </a>
       <br>Laravel
     </td>
-    <td align="center">
+    <td align="center" width="96">
       <a href="#ronakluhar-tech">
         <img src="./images/node.svg" width="48" height="48" alt="Node.js" />
       </a>
       <br>Node.js
     </td>
-    <td align="center">
+    <td align="center" width="96">
       <a href="#ronakluhar-tech">
         <img src="./images/react.png" width="48" height="48" alt="Reactjs" />
       </a>
       <br>Reactjs
     </td>
-    <td align="center">
+    <td align="center" width="96">
       <a href="#ronakluhar-tech">
         <img src="./images/typescript.png" width="48" height="48" alt="Typescript" />
       </a>
       <br>TypeScript
     </td>
-    <td align="center">
+    <td align="center" width="96">
       <a href="#ronakluhar-tech">
         <img src="./images/mysql.svg" width="48" height="48" alt="MySql" />
       </a>
       <br>MySql
     </td>
-    <td align="center">
+    <td align="center" width="96">
       <a href="#ronakluhar-tech">
         <img src="./images/postgresql.png" width="48" height="48" alt="Postgresql" />
       </a>
