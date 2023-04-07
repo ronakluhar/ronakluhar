@@ -22,7 +22,7 @@
     </td>
     <td align="center" width="96">
       <a href="#ronakluhar-tech">
-        <img src="./images/node-js.png" width="48" height="48" alt="Node.js" />
+        <img src="./images/node.svg" width="48" height="48" alt="Node.js" />
       </a>
       <br>Node.js
     </td>
