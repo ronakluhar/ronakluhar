@@ -52,12 +52,6 @@
     </td>
     <td align="center" width="96">
       <a href="#ronakluhar-tech">
-        <img src="./images/mongodb.png" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="#ronakluhar-tech">
         <img src="./images/aws.png" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
@@ -67,7 +61,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#ronakluhar-tech">
-        <img src="./images/graphql.png" width="48" height="48" alt="Graphql" />
+        <img src="./images/GraphQL.png" width="48" height="48" alt="Graphql" />
       </a>
       <br>Graphql
     </td>
@@ -79,43 +73,13 @@
     </td>
     <td align="center" width="96">
       <a href="#ronakluhar-tech">
-        <img src="./images/rust.png" width="48" height="48" alt="Rust" />
-      </a>
-      <br>Rust
-    </td>
-    <td align="center" width="96">
-      <a href="#ronakluhar-tech">
         <img src="./images/github.png" width="48" height="48" alt="GitHub" />
       </a>
       <br>GitHub
     </td>
     <td align="center" width="96">
       <a href="#ronakluhar-tech">
-        <img src="./images/apple.png" width="48" height="48" alt="Mac" />
-      </a>
-      <br>Mac
-    </td>
-    <td align="center" width="96">
-      <a href="#ronakluhar-tech">
-        <img src="./images/linux.png" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#ronakluhar-tech">
-        <img src="./images/nginx.png" width="48" height="48" alt="Nginx" />
-      </a>
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <a href="#ronakluhar-tech">
-        <img src="./images/discord.png" width="48" height="48" alt="Discord" />
-      </a>
-      <br>Discord
-    </td>
-    <td align="center" width="96">
-      <a href="#ronakluhar-tech">
-        <img src="./images/slack.png" width="48" height="48" alt="Slack" />
+        <img src="./images/slack.jpg" width="48" height="48" alt="Slack" />
       </a>
       <br>Slack
     </td>
