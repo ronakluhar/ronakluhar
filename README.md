@@ -16,6 +16,12 @@
   <tr>
     <td align="center" width="96">
       <a href="#ronakluhar-tech">
+        <img src="./images/laravel.jpg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <a href="#ronakluhar-tech">
         <img src="./images/node-js.png" width="48" height="48" alt="Node.js" />
       </a>
       <br>Node.js
@@ -37,12 +43,6 @@
         <img src="./images/typescript.png" width="48" height="48" alt="Typescript" />
       </a>
       <br>TypeScript
-    </td>
-     <td align="center" width="96">
-      <a href="#ronakluhar-tech">
-        <img src="./images/laravel.png" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Laravel
     </td>
     <td align="center" width="96">
       <a href="#ronakluhar-tech">
