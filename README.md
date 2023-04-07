@@ -2,8 +2,8 @@
 <p align="center">I'm Ronak Luhar, Fullstack developer from India.</p>
 
 - 🔭 I’m currently working at **Infynno Solutions in Ahmedabad**
-- 🌱 I’m currently learning **AWS and NestJS Microservices**
-- 💬 Ask me about **React, GatsbyJS, Laravel and NodeJS**
+- 👯 I’m looking to collaborate on **SaaS Development**
+- 💬 Ask me about **Web and Mobile Development**
 - 📫 How to reach me: [ronakmethan@gmail.com](mailto:ronakmethan@gmail.com) via email
 - ⚡ Fun fact: 
 
