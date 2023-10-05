@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at **Infynno Solutions in Ahmedabad**
 - 👯 I’m looking to collaborate on **SaaS Development**
 - 💬 Ask me about **Web and Mobile Development**
-- 📫 How to reach me: [ronakmethan@gmail.com](mailto:ronakmethan@gmail.com) via email
+- 📫 How to reach me: [ronak@infynno.com](mailto:ronak@infynno.com) via email
 
 
 ---
